@@ -1,0 +1,35 @@
+Aim: Installing and Configuration of virtualization using KVM. 
+
+
+Open VMware Workstation -> File -> New Virtual Machine. Click Next
+
+Select I will install the OS later -> Select Linux. Select the Red Hat Enterprise Linux 7 64-bit 
+version 
+
+Type the name and browse where you want to locate your virtual machine -> Put Maximum 
+disk spaceto40GB. 
+
+Select Customize Hardware -> Select memory to 4GB .
+
+Insert and browse your .iso file in CD/DVD (Kvm rhel-server-7.4-update-4-x86_64-dvd). Then power on the virtual machine 
+
+Select install Red Hat Enterprise Linux 7.4 
+
+Select the language and go to Software Selection 
+
+**dont forget this**
+Select Server with GUI and check Virtualization Client & Virtualization Hypervisor. And 
+then began Installation.
+
+Select Root Password. Type the root password. 
+
+Go to user creation and then enter the details. Click on Reboot. 
+
+Select Linux Information and accept the conditions. 
+
+Your account will appear -> type the password. 
+
+Your Desktop will appear.. 
+
+
+

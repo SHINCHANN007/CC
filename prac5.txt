@@ -1,0 +1,12 @@
+
+
+Aim: Study and Implementation of storage as a Service.  
+Step 1: Login to Gmail Account and go to Google Drive
+
+Step 2: Right click on my Drive  and select Google Docs 
+
+Step 3: Write any content and save the document.   
+Step 4: select my drive click on create Google Sheets and write any content and save it. 
+Step 5: select my drive click on create Google Slides. Write any content and save the slide.
+
+Step 6 : you can upload a file or folder by using upload file and upload folder tab.

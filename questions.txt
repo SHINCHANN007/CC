@@ -1,0 +1,87 @@
+prac 1--
+
+Practical 1A: A client server based program using TCP to find if the number entered is prime. 
+
+Practical 1B: A client server TCP based chatting application. 
+
+
+-----------------------
+
+prac 2--
+
+Practical 2A: A client server based program using UDP to find if the number entered is even 
+or odd. 
+
+Practical 2B: A client server based program using UDP to find the factorial of the entered 
+number
+
+Practical 2C: A program to implement simple calculator operations like addition, 
+subtraction, multiplication and division
+
+Practical 2D: A program that finds the square, square root, cube and cube root of the entered 
+number. 
+
+-----------------------
+
+prac 3--
+
+Practical 3A: A RMI based application program to display current date and time. 
+
+Practical 3B: A RMI based application program that coverts digits to words, e.g. 123 will be 
+converted to one two three 
+
+
+-----------------------
+
+
+prac 4--
+
+Q1. Write a JAX-WS web service to perform the following operations. Define a Servlet / JSP 
+that consumes the web service. 
+
+Q2. Write a JAX-WS web service server & client to perform the following operations. Define 
+a servlet/ JSP that consumes the web service. 
+
+
+-----------------------
+
+
+prac 5--
+
+ Study and Implementation of storage as a Service.  
+
+
+-----------------------
+
+
+prac 6--
+
+Implement the concept of Hashing.
+
+
+-----------------------
+
+
+prac 7--
+
+Implement Windows Hyper V virtualization 
+
+
+-----------------------
+
+
+prac 8--
+
+ Implement virtualization using VMWare ESXi Server and managin with vCenter 
+
+
+-----------------------
+
+
+prac 9--
+
+ Installing and Configuration of virtualization using KVM.
+
+
+-----------------------
+
