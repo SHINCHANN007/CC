@@ -1,0 +1,86 @@
+**Case Study on Amazon Web Services (AWS) (15 Marks)**
+
+### **Introduction:**
+Amazon Web Services (AWS) is a cloud computing platform provided by Amazon. It offers a variety of cloud services such as computing power, storage, and databases on a pay-as-you-go basis. AWS is widely used by businesses, startups, and government organizations for hosting applications, data storage, and analytics.
+
+### **Key Features:**
+1. **Elastic Compute Cloud (EC2):** Provides scalable virtual machines for computing power.
+2. **Simple Storage Service (S3):** Object storage service for storing and retrieving data.
+3. **Relational Database Service (RDS):** Managed database service for MySQL, PostgreSQL, and other databases.
+4. **AWS Lambda:** Serverless computing service to run code without managing servers.
+5. **Identity and Access Management (IAM):** Ensures secure access to AWS resources.
+
+### **Advantages:**
+✅ **Scalability:** Users can scale up or down as needed.
+✅ **Cost-effective:** Pay-as-you-go pricing model reduces unnecessary expenses.
+✅ **Security:** Provides strong security and compliance features.
+✅ **Global reach:** AWS has data centers worldwide, ensuring low-latency access.
+
+### **Use Case:**
+A startup developing a mobile application can use AWS to:
+- Host its backend on **EC2** for computing power.
+- Store user-generated content in **S3**.
+- Manage user authentication securely with **AWS IAM**.
+- Use **AWS Lambda** for event-driven processing without server management.
+
+---
+
+**Case Study on Google Cloud Platform (GCP) (15 Marks)**
+
+### **Introduction:**
+Google Cloud Platform (GCP) is a suite of cloud computing services provided by Google. It is known for its high-performance computing, data analytics, and AI capabilities. GCP is widely used for building, deploying, and managing applications efficiently.
+
+### **Key Features:**
+1. **Google Compute Engine:** Provides virtual machines for computing needs.
+2. **Google Cloud Storage:** Scalable object storage for unstructured data.
+3. **BigQuery:** Data warehouse service for analytics and big data processing.
+4. **Google Kubernetes Engine (GKE):** Managed Kubernetes service for containerized applications.
+5. **Cloud AI and Machine Learning:** Tools for AI and ML model development.
+
+### **Advantages:**
+✅ **Strong AI and Machine Learning capabilities.**
+✅ **Competitive pricing** with sustained-use and committed-use discounts.
+✅ **Integration with Google services** like Google Drive and Gmail.
+✅ **High-speed networking** using Google’s global fiber infrastructure.
+
+### **Use Case:**
+A data analytics company can use GCP to:
+- Store large datasets in **Google Cloud Storage**.
+- Use **BigQuery** to analyze data efficiently.
+- Leverage **Cloud AI tools** to generate insights and predictions.
+
+---
+
+**Case Study on Microsoft Azure (15 Marks)**
+
+### **Introduction:**
+Microsoft Azure is a cloud computing platform by Microsoft. It provides a wide range of cloud services, including computing, storage, and AI. Azure is particularly popular among enterprises due to its seamless integration with Microsoft products like Windows, Office, and Active Directory.
+
+### **Key Features:**
+1. **Azure Virtual Machines:** Scalable cloud-based virtual machines for computing needs.
+2. **Azure Blob Storage:** Object storage for large amounts of unstructured data.
+3. **Azure SQL Database:** Fully managed relational database service.
+4. **Azure AI and Machine Learning:** Provides AI capabilities for predictive analytics.
+5. **Azure Active Directory (Azure AD):** Identity management service for authentication and security.
+
+### **Advantages:**
+✅ **Seamless integration with Microsoft products** like Windows, Office 365, and Teams.
+✅ **Hybrid cloud support**, allowing a mix of on-premises and cloud environments.
+✅ **High security and compliance**, making it suitable for enterprises.
+✅ **Flexible pay-as-you-go pricing model**.
+
+### **Use Case:**
+A business using Microsoft Office 365 can leverage Azure to:
+- Securely authenticate employees using **Azure Active Directory**.
+- Store corporate documents in **Azure Blob Storage**.
+- Host enterprise applications using **Azure Virtual Machines**.
+
+---
+
+### **Conclusion:**
+AWS, GCP, and Azure are the three leading cloud service providers. Each has unique strengths:
+- **AWS** is known for its broad service offerings and global reach.
+- **GCP** excels in AI and data analytics capabilities.
+- **Azure** is ideal for enterprises due to its strong integration with Microsoft products.
+
+Choosing the right platform depends on business needs, budget, and technical requirements.
